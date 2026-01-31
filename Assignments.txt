@@ -1,0 +1,12 @@
+Assignment 01
+
+1. Load Image
+2. Convert it into Grayscale
+3. show it
+4. Save it 
+
+   Key points: 
+     1. take image location as input from user
+     2. take saving file name from user
+     3. print saving message.
+
